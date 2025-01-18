@@ -1,9 +1,3 @@
-Demo:
-
-
-https://github.com/user-attachments/assets/8334c2e2-20ab-4204-b9fa-c06962ad6b9a
-
-
 Description:
 
 This project is a simulation where there is a colony of ants that is searching for food. It isn't in the greatest shape but some tweaks will be made eventually. This project was made specifically for HighSeas. Have fun!
